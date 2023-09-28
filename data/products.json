@@ -5,7 +5,7 @@
     "discription":"book 1  is ....",
     "cat":"Books",
     "count":"10",
-    "image":"images/book-1.jpg"
+    "image":"/images/book-1.jpg"
 },
 {
     "title":"book 2",
@@ -14,5 +14,5 @@
     "discription":"book 2  is ....",
     "cat":"Books",
     "count":"5",
-    "image":"images/book-2.jpg"
+    "image":"/images/book-2.jpg"
 }]
